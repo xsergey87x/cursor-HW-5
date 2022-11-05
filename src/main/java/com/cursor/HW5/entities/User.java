@@ -1,4 +1,4 @@
-package com.cursor.HW5.extraClasses;
+package com.cursor.HW5.entities;
 
 import org.springframework.stereotype.Component;
 
